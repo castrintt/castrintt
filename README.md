@@ -1,4 +1,4 @@
-## Olá! Eu sou castrintt
+## Olá! Eu sou Igor Castro
 
 - 🔭 Atualmente trabalho com logística
 - 🌱 Estudando Javascript, Portugol e VUE
