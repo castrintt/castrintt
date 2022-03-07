@@ -1,7 +1,7 @@
 ## Olá! Eu sou Igor Castro
 
 - 🔭 Atualmente trabalho com logística
-- 🌱 Estudando Javascript,  VUE e lógica de programação pelo Portugol
+- 🌱 Estudando Javascript e lógica de programação pelo Portugol
 - 📫 Contate-me no email: igordc38@gmail.com
 - 🧐 Pronouns: ele/dele
 
