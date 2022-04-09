@@ -1,6 +1,6 @@
 ## Olá! Eu sou Igor Castro
 
-- 🔭 Trabalho com logística, buscando mudar de profissão! Sonho em ser um programador profissional!
+- 🔭 Buscando Primeiro emprego como programador!
 - 🌱 Atualmente estudando Vue JS, Python e SQL
 - 📫 Contate-me no email: igordc38@gmail.com
 - 🧐 Pronouns: ele/dele
