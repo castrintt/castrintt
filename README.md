@@ -1,4 +1,4 @@
-## Olá! Eu sou Igor Castro
+## Hi ! im Igor De Castro!
 
 - 🔭 Looking for First Job as a Programmer!
 - 🌱 Currently studying Vue JS, Python and SQL
