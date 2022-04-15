@@ -1,9 +1,9 @@
 ## Olá! Eu sou Igor Castro
 
-- 🔭 Buscando Primeiro emprego como programador!
-- 🌱 Atualmente estudando Vue JS, Python e SQL
-- 📫 Contate-me no email: igordc38@gmail.com
-- 🧐 Pronouns: ele/dele
+- 🔭 Looking for First Job as a Programmer!
+- 🌱 Currently studying Vue JS, Python and SQL
+- 📫 Contact me on email: igordc38@gmail.com
+- 🧐 Pronouns: him / his
 
 
 <div align="center">
