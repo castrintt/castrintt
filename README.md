@@ -1,7 +1,7 @@
 ## Hi ! i'm Igor De Castro!
 
 - 🔭 Looking for First Job as a Programmer!
-- 🌱 Currently studying Vue JS, Python and Django
+- 🌱 Currently studying Python and Django
 - 📫 Contact me on email: igordc38@gmail.com
 - 🧐 Pronouns: him / his
 
