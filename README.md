@@ -1,6 +1,6 @@
 ## Hi ! i'm Igor De Castro!
 
-- 🔭 Programmer!
+- 🔭 Hello i'm a Programmer!
 - 🌱 Currently studying Python/Django and React Js
 - 📫 Contact me on email: igordc38@gmail.com
 - 🧐 Pronouns: him / his
