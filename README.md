@@ -1,7 +1,7 @@
 ## Hi ! i'm Igor De Castro!
 
 - 🔭 Hello i'm a Programmer!
-- 🌱 Currently studying Python/Django and React Js
+- 🌱 Currently studying React/js, Next, Jest/react-testing-library and TypeScript
 - 📫 Contact me on email: igordc38@gmail.com
 - 🧐 Pronouns: him / his
 
@@ -22,8 +22,10 @@
     <img align="center" alt="igor-PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="igor-DJANGO" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> 
     <img align="center" alt="igor-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="igor-Typescript" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+    <img align="center" alt="igor-Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+            <img align="center" alt="igor-jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
           
-   
   
 </div>
   
