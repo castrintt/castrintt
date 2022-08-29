@@ -1,7 +1,7 @@
 ## Hi ! i'm Igor De Castro!
 
 - 🔭 Hello i'm a Programmer!
-- 🌱 Currently studying React/js, Next, Jest/react-testing-library and TypeScript
+- 🌱 Currently studying Next,TypeScript , Angular and C#
 - 📫 Contact me on email: igordc38@gmail.com
 - 🧐 Pronouns: him / his
 
