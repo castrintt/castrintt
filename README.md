@@ -1,7 +1,7 @@
 ## Hi ! i'm Igor De Castro!
 
 - 🔭 Hello i'm a Programmer!
-- 🌱 Currently studying Next,TypeScript , Angular, C#, .NET and .NET CORE MVC
+- 🌱 Currently studying Angular, C#, .NET, Flutter and database.
 - 📫 Contact me on email: igordc38@gmail.com
 - 🧐 Pronouns: him / his
 
