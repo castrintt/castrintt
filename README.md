@@ -16,21 +16,21 @@
     <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> -->
     -Tecnologias: 
-    React;
-    Angular;
-    Vue;
-    Javascript;
-    Typescript;
-    Redux;
-    Redux-toolkit;
-    Redux-thunk;
-    APIRest;
-    Sass;
-    RefreshToken;
-    Axios; 
-    React-Router-dom;
-    zod/superstruct;
-    ContextApi;
+    *React;
+    *Angular;
+    *Vue;
+    *Javascript;
+    *Typescript;
+    *Redux;
+    *Redux-toolkit;
+    *Redux-thunk;
+    *APIRest;
+    *Sass;
+    *RefreshToken;
+    *Axios (with interceptors); 
+    *React-Router-dom;
+    *Zod/superstruct;
+    *ContextApi;
     
     -Conceitos de arquitetura
     Arquitetura de camadas para front end:
