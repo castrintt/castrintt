@@ -15,8 +15,29 @@
     <img align="center" alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
     <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> -->
-    -Tecnologias: React, Angular, Vue, Javascript, Typescript, Redux, Redux-toolkit, Redux-thunk, APIRest, Sass, RefreshToken, Axios, React-Router-dom, zod/superstruct, ContextApi, aplicaçao de arquitetura de camadas para front end (Service [comunicação direta com back-end (tratamento de dados)], Stores [Gerenciamento complexo de estados], Domain [camada de configuracao das entidades do sistema, no caso do front end as Dto`s para request/ response], View [layout, responsavel pela tela e somente regras de tela]).
-        
+    -Tecnologias: 
+    React;
+    Angular;
+    Vue;
+    Javascript;
+    Typescript;
+    Redux;
+    Redux-toolkit;
+    Redux-thunk;
+    APIRest;
+    Sass;
+    RefreshToken;
+    Axios; 
+    React-Router-dom;
+    zod/superstruct;
+    ContextApi;
+    
+    -Conceitos de arquitetura
+    Arquitetura de camadas para front end:
+     *Service [comunicação direta com back-end (tratamento de dados)]
+     *Infra(Stores) [Gerenciamento complexo de estados]
+     *Domain [camada de configuracao das entidades do sistema, no caso do front end as Dto`s para request/ response]
+     *View [layout, responsavel pela tela e somente regras de tela]).
           
 </div>
   
