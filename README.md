@@ -1,6 +1,7 @@
 # Hi! I'm Igor De Castro!
 
-- 🔭 Hello, I'm a Programmer!
+Highly motivated Front-End Developer passionate about creating amazing and intuitive user interfaces. Solid knowledge in HTML, CSS, JavaScript, and TypeScript, always seeking to improve skills and learn new technologies. Experienced with popular frameworks like React, Angular, and Vue, focusing on innovative solutions and high-quality projects. Effective communicator, collaborative, and ready to tackle challenges in a dynamic and creative environment.
+
 - 🌱 Currently studying Cypress, StoryBooks, and Mobile development.
 - 📫 Contact me via email: igordc38@gmail.com
 
