@@ -1,9 +1,8 @@
 ## Hi ! i'm Igor De Castro!
 
 - 🔭 Hello i'm a Programmer!
-- 🌱 Currently studying Cypress, StoryBooks and devsecops.
+- 🌱 Currently studying Cypress, StoryBooks, RefreshToken and Mobile development.
 - 📫 Contact me on email: igordc38@gmail.com
-- 🧐 Pronouns: him / his
 
 
 <div align="center">
