@@ -83,6 +83,7 @@ The standard data flow across layers follows this sequence:
 Gateway → Service → Controller → Base → Component
 
 
+
 **Flow Description:**
 - **Gateway** → Communicates directly with the API.  
 - **Service** → Handles business logic and orchestrates calls to the Gateway.  
@@ -91,6 +92,31 @@ Gateway → Service → Controller → Base → Component
 - **Component** → Renders the processed data in the user interface.  
 
 ---
+
+### 🧱 Why This Architecture
+
+This architectural approach is designed to **keep the system organized, predictable, and easy to maintain**, especially as projects grow in complexity.
+
+By clearly isolating each layer’s responsibility:
+- **Components remain simple and purely visual**, focused only on rendering and layout.  
+- **Controllers encapsulate all logic and state**, making them easily testable and replaceable.  
+- **Business and Gateway layers** handle all external communication and transformations, ensuring the UI remains decoupled from backend details.  
+- **Utils and Config layers** provide a consistent foundation across the entire system.
+
+This structure makes the codebase **intuitive to navigate**, **scalable for team collaboration**, and **ideal for testing** — since each layer can be unit-tested independently.  
+It also simplifies **refactoring and feature development**, allowing developers to modify behavior or data flow without impacting unrelated areas of the application.
+
+---
+
+
+```mermaid
+flowchart LR
+  A[API] --> B[Gateway]
+  B --> C[Service]
+  C --> D[Controller]
+  D --> E[Base]
+  E --> F[Component]
+```
 
 
 
