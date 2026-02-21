@@ -17,7 +17,6 @@ Professional and results-driven Front-End and Mobile Developer with solid experi
 - Appium (e2e)
 - RESTful APIs
 - tailwind
-- Refresh Token
 - Axios (with interceptors)
 
 
