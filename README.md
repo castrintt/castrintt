@@ -19,8 +19,8 @@ Professional and results-driven Front-End and Mobile Developer with solid experi
 - tailwind
 - Axios (with interceptors)
 - Node/Express/NestJs
-- SQL, MYSQL, MONGODB, POSTGRESQL e SQLITE
-- C# e .net
+- SQL SERVER, MYSQL, MONGODB, POSTGRESQL e SQLITE
+- Conhecimentos em C# e .net
 
 ## Contact:
 - Email: igordc38@gmail.com
